@@ -1,0 +1,15 @@
+h1 {
+    color: darkblue; /* Cambia 'red' por el color que desees */
+  }
+
+.negritas {
+    font-weight: bold; /* Hace que todo el texto dentro del párrafo esté en negrita */
+  }
+
+p {
+    font-size: 18px; /* Cambia el tamaño de las letras a 20 píxeles */
+  }
+
+li{
+    font-size: 18px; /* Cambia el tamaño de las letras a 20 píxeles */
+  }
