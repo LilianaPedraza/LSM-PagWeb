@@ -1,15 +1,53 @@
 h1 {
-    color: darkblue; /* Cambia 'red' por el color que desees */
+    color: darkblue;
+    font-size: 40px;
+  
   }
-
+  
 .negritas {
-    font-weight: bold; /* Hace que todo el texto dentro del párrafo esté en negrita */
+    font-weight: bold; 
   }
 
 p {
-    font-size: 18px; /* Cambia el tamaño de las letras a 20 píxeles */
+    font-size: 18px; 
   }
 
 li{
-    font-size: 18px; /* Cambia el tamaño de las letras a 20 píxeles */
+    font-size: 18px; 
   }
+
+dt{
+    font-size: 19px; 
+  }
+
+dd{
+    font-size: 18px; 
+  }
+h3{
+    font-size: 28px; 
+  }
+
+h4{
+    font-size: 20px; 
+  }
+
+blockquote{
+  font-size: 17px; 
+}
+
+body{
+  background-color:ghostwhite ; 
+}
+
+.centered-image {
+  display: block;    
+  margin-left: auto; 
+  margin-right: auto;
+  max-width: 100%;   
+  height: auto;     
+}
+
+.letrita{
+  font-size: 15px; 
+}
+
